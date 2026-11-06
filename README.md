@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @NapoI
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning 'Kotlin', 'Java', 'C#' and 'Python'.
-- 📫 How to reach me emrerkus2323@gmail.com
-- 📕 I am a second year computer engineering student at Fırat University.
+### Hi, I'm Emre
 
-<!---
-NapoI/NapoI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Final-year Computer Engineering student at Fırat University (graduating June 2027).
+Backend developer: Python and Django are home. I build retrieval systems (RAG, graph RAG, hybrid RAG) and I measure them instead of trusting them.
+Currently learning Rust, heading toward systems programming and compilers.
+
+**Selected work**
+
+- [Hybrid-RAG](https://github.com/AlaattinEmreERKUS/Hybrid-RAG): vector, full-text and knowledge-graph retrieval fused with RRF, plus an ablation study of each leg
+- [FalkorDB-arXiv-GraphRAG](https://github.com/AlaattinEmreERKUS/FalkorDB-arXiv-GraphRAG): GraphRAG over arXiv papers on FalkorDB
+- [Kovan](https://github.com/AlaattinEmreERKUS/Kovan): real-time voice and video chat app
+- [WebCrawler](https://github.com/AlaattinEmreERKUS/WebCrawler): LLM-assisted scraper that extracts what you ask for from a website
+
+**Stack:** Python, Django, PostgreSQL, Neo4j, Redis, Docker, Java / Spring Boot, TypeScript, Rust (learning)
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/alaattin-emre-erku%C5%9F-1510102a8/) · emrerkus2323@gmail.com
